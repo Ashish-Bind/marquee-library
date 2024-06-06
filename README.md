@@ -13,8 +13,8 @@ Made using React.js and Tailwind CSS
 Clone this repository git
 
 ```bash
-  git clone
-  cd
+  git clone https://github.com/Ashish-Bind/marquee-library.git
+  cd marquee-library
 ```
 
 Install dependencies from npm
